@@ -1,1 +1,3 @@
-# acmlab
+# Prediction of Income Levels Using Machine Learningon Satellite Imagery
+
+Knowledge of high disparities in developmental indicators, such as per capitaincome, on a local level, is crucial for policy design. However this data is scarceand difficult to obtain. Moreover, this valuable and critical data is often the mostchallenging to obtain in the areas that need it the most.Through this project, we provide a low-cost, scalable method to predict the spatialdistribution of average yearly income levels within a nation or subnational divisionfrom satellite imagery.  Using satellite imagery of the Los Angeles Metropoli-tan Area we provide a proof-of-concept model, leveraging convolutional neuralnetworks that can be trained to identify features indicating variance in averageincome and hence predict income levels of a locality. We hope that this model cangeneralize to other archetypes of geographic development in developing nations.
